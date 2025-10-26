@@ -38,7 +38,7 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
 
 <a id="screenshots"></a>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=90EE90&vCenter=true&width=435&height=25&lines=SCREENSHOTS" width="450"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=9370DB&vCenter=true&width=435&height=25&lines=SCREENSHOTS" width="450"/>
 
 <details close>
 <summary>Overall</summary>
