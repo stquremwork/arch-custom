@@ -4,7 +4,20 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png" width="100">
 </p>
 
-<h1 align="center">Steep Shell Install Script by Stqurem</h1>
+<h1 align="center">  
+
+  /$$$$$$  /$$$$$$$$ /$$$$$$$$ /$$$$$$$$ /$$$$$$$         /$$$$$$  /$$   /$$ /$$$$$$$$ /$$       /$$      
+ /$$__  $$|__  $$__/| $$_____/| $$_____/| $$__  $$       /$$__  $$| $$  | $$| $$_____/| $$      | $$      
+| $$  \__/   | $$   | $$      | $$      | $$  \ $$      | $$  \__/| $$  | $$| $$      | $$      | $$      
+|  $$$$$$    | $$   | $$$$$   | $$$$$   | $$$$$$$/      |  $$$$$$ | $$$$$$$$| $$$$$   | $$      | $$      
+ \____  $$   | $$   | $$__/   | $$__/   | $$____/        \____  $$| $$__  $$| $$__/   | $$      | $$      
+ /$$  \ $$   | $$   | $$      | $$      | $$             /$$  \ $$| $$  | $$| $$      | $$      | $$      
+|  $$$$$$/   | $$   | $$$$$$$$| $$$$$$$$| $$            |  $$$$$$/| $$  | $$| $$$$$$$$| $$$$$$$$| $$$$$$$$
+ \______/    |__/   |________/|________/|__/             \______/ |__/  |__/|________/|________/|________/
+                                                                                                                                                                                                                    
+</h1>
+
+<h2 align="center">Install Script by Stqurem</h2>
 <br>
 This Hyprland configuration is kind of minila looking, but also little bit gorgeous I guess. Why don't you check it out?
 
