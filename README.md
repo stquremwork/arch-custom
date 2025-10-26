@@ -1,8 +1,8 @@
 <a id="top"></a>
 
-<h1 align="center">Minimal Hyprland Install Script</h1>
+<h1 align="center">Steep Shell Install Script</h1>
 <h3 align="center">By</h3>
-<h2 align="center">Shell Ninja</h2>
+<h2 align="center">Stqurem</h2>
 <br>
 
 This Hyprland configuration is kind of minila looking, but also little bit gorgeous I guess. Why don't you check it out?
