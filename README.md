@@ -4,15 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png" width="100">
 </p>
 
-<h1 align="center">  
-
-   ___ _____ ___ ___ ___   ___ _  _ ___ _    _    
- / __|_   _| __| __| _ \ / __| || | __| |  | |   
- \__ \ | | | _|| _||  _/ \__ \ __ | _|| |__| |__ 
- |___/ |_| |___|___|_|   |___/_||_|___|____|____|
-                                                 
-                                                                                                                                                                                                                    
-</h1>
+<h1 align="center">Steep Shell</h1>
 
 <h2 align="center">Install Script by Stqurem</h2>
 <br>
