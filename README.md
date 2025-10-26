@@ -136,7 +136,7 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
   <a href="#top"><kbd> <br> 🡅 <br> </kbd></a>
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=90EE90&vCenter=true&width=435&height=25&lines=INSTALLATION" width="450"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=9370DB&vCenter=true&width=435&height=25&lines=INSTALLATION" width="450"/>
 
 > [!NOTE]
 >
@@ -310,7 +310,7 @@ git push origin your_branch_name
 
 <br>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=90EE90&vCenter=true&width=435&height=25&lines=THANKS" width="450"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=9370DB&vCenter=true&width=435&height=25&lines=THANKS" width="450"/>
 
 I would like to thank [JaKooLit](https://github.com/JaKooLit). I was inspired from his Hyprland installation scripts and prepared my script. I took and modified some of his scripts and used here.
  сделай вместо зелёного фиолетовый везде
