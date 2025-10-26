@@ -110,11 +110,6 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
 
 <br>
 
-<div align="right">
-  <br>
-  <a href="#top"><kbd> <br> 🡅 <br> </kbd></a>
-</div>
-
 <a id="features"></a>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=9370DB&vCenter=true&width=435&height=25&lines=FEATURE" width="450"/>
@@ -133,11 +128,6 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
 <br>
 
 <a id="install"></a>
-
-<div align="right">
-  <br>
-  <a href="#top"><kbd> <br> 🡅 <br> </kbd></a>
-</div>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=9370DB&vCenter=true&width=435&height=25&lines=INSTALLATION" width="450"/>
 
