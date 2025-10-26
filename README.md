@@ -226,18 +226,7 @@ Also, you can choose the keyboard variant, or keep it empty.
 
 > [!IMPORTANT]
 >
-> After installation, just press the `SUPER + Shift + h`. It will show you all the keybinds.
-
-<br>
-
-<div align="right">
-  <br>
-  <a href="#top"><kbd> <br> 🡅 <br> </kbd></a>
-</div>
-
-<a id="updates"></a>
-
-### See last changes (updates) [here](https://github.com/shell-ninja/hyprconf-install/blob/main/UPDATES.md)
+> After installation, just press the `SUPER + Shift + H`. It will show you all the keybinds.
 
 <br>
 
