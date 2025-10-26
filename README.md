@@ -34,11 +34,6 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
 
 <br>
 
-<div align="right">
-  <br>
-  <a href="#top"><kbd> <br> 🡅 <br> </kbd></a>
-</div>
-
 <a id="screenshots"></a>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=9370DB&vCenter=true&width=435&height=25&lines=SCREENSHOTS" width="450"/>
@@ -226,11 +221,6 @@ Also, you can choose the keyboard variant, or keep it empty.
 
 <br>
 <a id="keyboards"></a>
-
-<div align="right">
-  <br>
-  <a href="#top"><kbd> <br> 🡅 <br> </kbd></a>
-</div>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=9370DB&vCenter=true&width=435&height=25&lines=KEYBOARD-SHORTCUTS" width="450"/>
 
