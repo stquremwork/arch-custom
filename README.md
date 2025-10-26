@@ -1,13 +1,12 @@
 <a id="top"></a>
 
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png" width="100">
+</p>
 
 <h1 align="center">Steep Shell Install Script by Stqurem</h1>
 <br>
 This Hyprland configuration is kind of minila looking, but also little bit gorgeous I guess. Why don't you check it out?
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png" width="100">
-</p>
 
 <div align="center">
 
